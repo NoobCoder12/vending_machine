@@ -30,7 +30,7 @@ Allows setting the initial number of items and item price, then simulates purcha
 
 4. Follow the on-screen prompts to set the machine and make purchases.
 
-Unit Tests
+## Unit Tests
 
 This project includes unit tests using Python’s built-in unittest module.
 To run tests, execute:
@@ -40,7 +40,7 @@ Project Structure:
   vending_machine.py — main file containing the VendingMachine class and program logic
   test_vending_machine.py — unit tests
 
-Example usage:
+## Example usage:
 
 Enter initial number of items and its price
 10 5
@@ -54,11 +54,11 @@ How many items would you like to buy and how much money do you have?
 8 50
 Error: Not enough items in the machine.
 
-Author
+## Author
 
 NoobCoder12  
 https://github.com/NoobCoder12
 
-License
+## License
 
 This project is licensed under the MIT License — feel free to use and modify it.
